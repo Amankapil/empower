@@ -44,7 +44,7 @@ const Seeker = () => {
                     <span>JOBSEEKER</span>
                   </Link> */}
                   <Link
-                    href="/About"
+                    href="/services"
                     className="one  text-[#000] font-normal text-[12px] tracking-[1px] inlineblock px[22px] py-[10px] rounded-[50px] [transition:0.5s] m-[10px] border-[0px] border-[solid] border[#ffffff] text-center w-[195px] flex justify-start items-center gap-2 hover:underline hoverborder-[#1d83b3]"
                   >
                     <Image
@@ -87,7 +87,7 @@ const Seeker = () => {
                     <span>JOBSEEKER</span>
                   </Link> */}
                   <Link
-                    href="/About"
+                    href="/employee"
                     className="one  text-[#000] font-normal text-[12px] tracking-[1px] inlineblock px[22px] py-[10px] rounded-[50px] [transition:0.5s] m-[10px] border-[0px] border-[solid] border[#ffffff] text-center w-[195px] flex justify-start items-center gap-2 hover:underline hoverborder-[#1d83b3] "
                   >
                     <Image

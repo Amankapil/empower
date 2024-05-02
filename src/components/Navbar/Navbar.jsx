@@ -189,7 +189,7 @@ function Navbar() {
                 <li className="group relative rounded-full border px-[14px] py-2">
                   CONTACT
                   {/* <!-- Dropdown that appears on hover --> */}
-                  <div className="absolute top-0 pt-10 left-2 mt-1 bgwhite text-black hidden group-hover:block rounded shadow-lg">
+                  <div className="absolute top-0 pt-10 left-0 mt-1 bgwhite text-black hidden group-hover:block rounded shadow-lg">
                     <ul>
                       <li className="px-[14px] py-2 rounded-full  bg-gray-200">
                         <Link href="/job-seeker">CAREERS</Link>
