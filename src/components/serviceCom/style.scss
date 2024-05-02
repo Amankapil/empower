@@ -1,0 +1,44 @@
+.wserv::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 70vh;
+  background-image: url("./assets/hero_empower.jpg");
+  background-size: 103%;
+  top: 0;
+  z-index: -1;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.wserv::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 70vh;
+  // background-image: url("./assets/hero_empower.jpg");
+  background-color: rgba(0, 0, 0, 0.612);
+  background-size: 103%;
+  top: 0;
+  z-index: -1;
+//   background-repeat: no-repeat;
+//   background-attachment: fixed;
+}
+
+
+
+
+@media (max-width: 668px) {
+  .wserv::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-image: url("./assets/hero_empower.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    top: 0;
+    z-index: -1;
+    background-repeat: no-repeat;
+    background-attachment: local;
+  }
+}

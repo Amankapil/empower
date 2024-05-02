@@ -1,0 +1,10 @@
+.right:before {
+    content: "";
+    position: absolute;
+    background-image: url('./assets/jh.png');
+    height: 30px;
+    left: 0;
+    background-size: 69%;
+    width: 30px;
+    background-repeat: no-repeat;
+}

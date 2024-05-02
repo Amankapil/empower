@@ -1,0 +1,63 @@
+.hero-about::after {
+  content: "";
+  background-image: url("./assets/em.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  height: 70%;
+  z-index: -1;
+  position: absolute;
+  top: 0;
+}
+
+.pro-home {
+  width: 100%;
+  height: 100%;
+  background-image: url("./assets/process.jpg");
+  background-size: 100%;
+  z-index: -1;
+  background-repeat: no-repeat;
+}
+.pro-home-staff {
+  width: 100%;
+  height: 100%;
+  background-image: url("./assets/staff-banner.jpg");
+  background-size: 100%;
+  z-index: -1;
+  background-repeat: no-repeat;
+}
+
+@media (max-width: 768px) {
+  .hero-about::after {
+    content: "";
+    background-image: url("./assets/em.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: 300%;
+    background-position: 50% 50%;
+    width: 100%;
+    height: 80%;
+
+    z-index: -1;
+    position: absolute;
+    top: 0;
+  }
+
+  .pro-home {
+    width: 100%;
+    height: 100%;
+    background-image: url("./assets/process.jpg");
+    background-size: cover;
+    z-index: -1;
+    background-repeat: no-repeat;
+  }
+  .pro-home-staff {
+    width: 100%;
+    height: 100%;
+    background-image: url("./assets/staff-banner.jpg");
+    background-size: cover;
+    z-index: -1;
+    background-repeat: no-repeat;
+  }
+}
