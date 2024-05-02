@@ -171,15 +171,21 @@ function Navbar() {
 
           <div className="mr-11">
             <ul className="flex items-center text-white text-xs mt-1 mb-6 gap-8 py-[10px]">
-              <li className="hover:rounded-full hover:border px-[14px] py-2">
-                <Link href="/About">ABOUT US</Link>
-              </li>
-              <li className="hover:rounded-full hover:border px-[14px] py-2">
-                <Link href="/job-seeker">JOBSEEKER</Link>
-              </li>
-              <li className="hover:rounded-full hover:border px-[14px] py-2">
-                <Link href="/employee">EMPLOYER</Link>
-              </li>
+              <Link href="/About">
+                <li className="hover:rounded-full hover:border px-[14px] py-2">
+                  ABOUT US
+                </li>
+              </Link>
+              <Link href="/job-seeker">
+                <li className="hover:rounded-full hover:border px-[14px] py-2">
+                  JOBSEEKER
+                </li>
+              </Link>
+              <Link href="/employee">
+                <li className="hover:rounded-full hover:border px-[14px] py-2">
+                  EMPLOYER
+                </li>
+              </Link>
               <Link href="/services">
                 <li className="hover:rounded-full hover:border px-[14px] py-2">
                   SERVICES
