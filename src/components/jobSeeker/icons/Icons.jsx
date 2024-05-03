@@ -1,15 +1,15 @@
-import React from "react";
-import Img1 from "./assets/seeker-icon1.png";
-import Img2 from "./assets/seeker-icon2.png";
-import Image from "next/image";
+import React from 'react'
+import Img1 from './assets/seeker-icon1.png'
+import Img2 from './assets/seeker-icon2.png'
+import Image from 'next/image'
 
-function Icons() {
+function Icons () {
   return (
     <>
-      <div className="w-full h-[450px]">
-        <div className="max-w-6xl mx-auto ">
-          <h1 className="text-4xl font-bold">Current Openings</h1>
-          <p className="w-full shadow-2xl p-8 mt-9 font-normal text-[18px] mb-12">
+      <div className='w-full h-[450px] max-md:h-full'>
+        <div className='max-w-6xl mx-auto '>
+          <h1 className='text-4xl font-bold'>Current Openings</h1>
+          <p className='w-full shadow-2xl p-8 mt-9 font-normal text-[18px] mb-12'>
             Systems Analyst - Analyze data processing probs to design/implement
             comp systems. Analyze user reqs/procedures/problems to automate
             existing systems & review capabilities. Req’d Master of Comp Sci,
@@ -27,7 +27,7 @@ function Icons() {
         </div>
       </div>
     </>
-  );
+  )
 }
 
-export default Icons;
+export default Icons

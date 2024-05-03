@@ -161,7 +161,7 @@ function Navbar () {
                       y1='28.813'
                       x2='51.5647'
                       y2='28.813'
-                      stroke='black'
+                      stroke='#fff'
                     />
                   </svg>
                 )}
