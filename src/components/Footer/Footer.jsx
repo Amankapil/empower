@@ -30,7 +30,10 @@ function Footer () {
                 Jobseeker
               </li>
             </Link>
-            <Link className='hover:text-[#f82249] relative' href='/employee'>
+            <Link
+              className='hover:text-[#f82249] relative'
+              href='/Staff-Augmentation'
+            >
               <li className='p-2 relative px-10 border-[#262c44] border-b-2 right'>
                 Employer
               </li>

@@ -197,7 +197,7 @@ function Navbar () {
                   <Link
                     onClick={hamburger}
                     className='hovertext-[#733e3d]  text-white'
-                    href='/employee'
+                    href='/Staff-Augmentation'
                   >
                     STAFF AUGMENTATION
                   </Link>
@@ -283,7 +283,7 @@ function Navbar () {
                   JOBSEEKER
                 </li>
               </Link> */}
-              <Link href='/employee'>
+              <Link href='/Staff-Augmentation'>
                 <li
                   className={
                     isScrolled
