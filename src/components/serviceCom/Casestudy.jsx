@@ -1,31 +1,31 @@
-import React from "react";
+import React from 'react'
 
 const Casestudy = () => {
   return (
     <>
-      <div className="w-full py-12 lg:py-24">
-        <div className="container grid items-center justify-center gap-4 px-4 text-center md:gap-10 md:px-6">
-          <div className="space-y-3">
-            <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
+      <div className='w-full py-12 lg:py-24'>
+        <div className='container grid items-center justify-center gap-4 px-4 text-center md:gap-10 md:px-6'>
+          <div className='space-y-3'>
+            <h2 className='text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl'>
               Case Studies
             </h2>
-            <p className="text-gray-500 md:text-xl/relaxed xl:text-base/relaxed dark:text-gray-400">
+            <p className='text-gray-500 md:text-xl/relaxed xl:text-base/relaxed dark:text-gray-400'>
               See how our customers use our platform to build amazing things.
             </p>
           </div>
         </div>
-        <div className="containe max-w-5xl mx-auto grid items-center justify-center gap-4 px-4 md:gap-10 lg:gap-16 xl:grid-cols-2 xl:max-w-6xl xl:px-6">
-          <div className="mxauto space-y-4 max-w-5xl mx-auto">
-            <div className="rounded-lg shadow-lg">
-              <div className="p-4 md:p-6 lg:p-8 ">
-                <div className="space-y-2 ">
-                  <div className="inline-block rounded-lg bg-gray-100 px-3 py-1 text-sm uppercase font-medium ">
+        <div className='containe max-w-5xl mx-auto grid items-center justify-center gap-4 px-4 md:gap-10 lg:gap-16 xl:grid-cols-2 xl:max-w-6xl xl:px-6'>
+          <div className='mxauto space-y-4 max-w-5xl mx-auto'>
+            <div className='rounded-lg shadow-lg'>
+              <div className='p-4 md:p-6 lg:p-8 '>
+                <div className='space-y-2 '>
+                  <div className='inline-block rounded-lg bg-gray-100 px-3 py-1 text-sm uppercase font-medium '>
                     Case Study
                   </div>
-                  <h3 className="text-2xl font-bold tracking-tight">
-                    Mobile App SolutionMobile App Solution
+                  <h3 className='text-2xl font-bold tracking-tight'>
+                    Mobile App Solution
                   </h3>
-                  <p className="text-md text-gray-500 ">
+                  <p className='text-md text-gray-500 '>
                     Empower collaborated with private and public sector
                     stakeholders to build a solution to allow farmers to
                     leverage real-time monitoring of ground-level data to more
@@ -39,17 +39,17 @@ const Casestudy = () => {
               </div>
             </div>
           </div>
-          <div className="mx-auto space-y-4">
-            <div className="rounded-lg shadow-lg">
-              <div className="p-4 md:p-6 lg:p-8">
-                <div className="space-y-2">
-                  <div className="inline-block rounded-lg bg-gray-100 px-3 py-1 text-sm uppercase font-medium ">
+          <div className='mx-auto space-y-4'>
+            <div className='rounded-lg shadow-lg'>
+              <div className='p-4 md:p-6 lg:p-8'>
+                <div className='space-y-2'>
+                  <div className='inline-block rounded-lg bg-gray-100 px-3 py-1 text-sm uppercase font-medium '>
                     Case Study
                   </div>
-                  <h3 className="text-2xl font-bold tracking-tight">
+                  <h3 className='text-2xl font-bold tracking-tight'>
                     Data Visualization
                   </h3>
-                  <p className="text-md text-gray-500 ">
+                  <p className='text-md text-gray-500 '>
                     A national museum faced challenges in efficiently compiling
                     and visualizing complex geographic-based data from numerous
                     sources. Empower’s solution provided a user-friendly
@@ -69,17 +69,17 @@ const Casestudy = () => {
               </div> */}
             </div>
           </div>
-          <div className="mx-auto space-y-4">
-            <div className="rounded-lg shadow-lg">
-              <div className="p-4 md:p-6 lg:p-8">
-                <div className="space-y-2">
-                  <div className="inline-block rounded-lg bg-gray-100 px-3 py-1 text-sm uppercase font-medium ">
+          <div className='mx-auto space-y-4'>
+            <div className='rounded-lg shadow-lg'>
+              <div className='p-4 md:p-6 lg:p-8'>
+                <div className='space-y-2'>
+                  <div className='inline-block rounded-lg bg-gray-100 px-3 py-1 text-sm uppercase font-medium '>
                     Case Study
                   </div>
-                  <h3 className="text-2xl font-bold tracking-tight">
+                  <h3 className='text-2xl font-bold tracking-tight'>
                     Data Integration and Management
                   </h3>
-                  <p className="text-md text-gray-500 ">
+                  <p className='text-md text-gray-500 '>
                     A leading pharma company faced challenges in data
                     accessibility, searchability and ease of use. Empower
                     stepped in to enhance their data services by centralizing
@@ -99,17 +99,17 @@ const Casestudy = () => {
               </div> */}
             </div>
           </div>
-          <div className="mx-auto space-y-4">
-            <div className="rounded-lg shadow-lg">
-              <div className="p-4 md:p-6 lg:p-8">
-                <div className="space-y-2">
-                  <div className="inline-block rounded-lg bg-gray-100 px-3 py-1 text-sm uppercase font-medium ">
+          <div className='mx-auto space-y-4'>
+            <div className='rounded-lg shadow-lg'>
+              <div className='p-4 md:p-6 lg:p-8'>
+                <div className='space-y-2'>
+                  <div className='inline-block rounded-lg bg-gray-100 px-3 py-1 text-sm uppercase font-medium '>
                     Case Study
                   </div>
-                  <h3 className="text-2xl font-bold tracking-tight">
+                  <h3 className='text-2xl font-bold tracking-tight'>
                     Community Portal
                   </h3>
-                  <p className="text-md text-gray-500 ">
+                  <p className='text-md text-gray-500 '>
                     An education services firm faced challenges in managing a
                     variety of programs and large-scale operations encompassing
                     over 1,200 teachers and 70,000 students across geographies.
@@ -135,7 +135,7 @@ const Casestudy = () => {
         </div>
       </div>
     </>
-  );
-};
+  )
+}
 
-export default Casestudy;
+export default Casestudy

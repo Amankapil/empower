@@ -21,11 +21,10 @@ const Hero = () => {
             <div className='button-hero flex  max-md:flex-wrap'>
               <Link
                 href='/services'
-                className='one  text-[#fff] font-normal text-[12px] tracking-[1px] inlin-block px-[22px] py-[10px] rounded-[50px] [transition:0.5s] m-[10px] border-[1px] border-[solid] border-[#1d83b3] bg-[#1d83b3] text-center w-[165px]  flex justify-center items-center gap-2 hover:bg-[transparent] hover:border-[#fff]'
+                className='one  text-[#fff] font-normal text-[12px] tracking-[1px] inlin-block px-[22px] py-[10px] rounded-[50px] [transition:0.5s] m-[10px] border-[1px] border-[solid] border-[#1d83b3] bg-[#1d83b3] text-center w-[238px]  flex justify-center items-center gap-2 hover:bg-[transparent] hover:border-[#fff]'
               >
-                {/* <span></span> */}
                 <Image className='align-middle border-none' src={img} alt='' />
-                <span>Services</span>
+                <span>TECHNOLOGY SERVICES</span>
               </Link>
               <Link
                 href='/Staff-Augmentation'

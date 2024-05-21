@@ -192,7 +192,7 @@ function Navbar () {
                     className='hovertext-[#733e3d]  text-white'
                     href='/services'
                   >
-                    SERVICES
+                    TECHNOLOGY SERVICES
                   </Link>
                   <Link
                     onClick={hamburger}
@@ -275,7 +275,7 @@ function Navbar () {
                       : 'hover:rounded-full hover:border px-[14px] py-2'
                   }
                 >
-                  SERVICES
+                  TECHNOLOGY SERVICES
                 </li>
               </Link>
               {/* <Link href="/job-seeker">
