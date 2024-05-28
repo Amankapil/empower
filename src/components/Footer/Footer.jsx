@@ -27,7 +27,7 @@ function Footer () {
             </Link>
             <Link className='hover:text-[#f82249] relative' href='/job-seeker'>
               <li className='p-2  px-10 border-[#262c44] border-b-2 right'>
-                Jobseeker
+                Staff Augmentation
               </li>
             </Link>
             <Link

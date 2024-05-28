@@ -17,8 +17,8 @@ export default function Cards () {
               Application Development and Legacy Replatforming
             </h3>
             <p className='text-center text-gray-500 dark:text-gray-400'>
-              Bring your ideas to life with our comprehensive product
-              development services.
+              Bring your ideas to life with our comprehensive development
+              services.
             </p>
           </div>
           <div className='flex flex-col items-center gap-4 rounded-lg bg-white p-6 shadow-lg transition-all hover:scale-105 hover:shadow-md '>
